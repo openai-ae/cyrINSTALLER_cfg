@@ -14,28 +14,14 @@ sidebar: none
 navigation: widget
 
 strings:
-    productName:         SunnyOS
-    shortProductName:    SunOS
-    version:             beta
-    shortVersion:        s-beta
-    versionedName:       stable-beta
-    shortVersionedName:  SunnyOS
-    bootloaderEntryName: SunnyOS
+    productName:         cyrOS
+    shortProductName:    cyr
+    version:             Blossom-Alpha
+    shortVersion:        cyrC
+    versionedName:       Blossom
+    shortVersionedName:  cyrOS
+    bootloaderEntryName: cyrOS
 
-images:
-    productIcon:            "logo.png"
-    productLogo:            "icon.png"
-    productWelcome:         "welcome.png"
-
-style:
-   sidebarBackground:       "#FFFFFF"
-   sidebarText:             "#333429"
-   sidebarTextSelect:       "#ffffff"
-   sidebarTextHighlight:    "#fce303"
-
-slideshow:               "show.qml"
-
-slideshowAPI: 2
 
 uploadServer :
     type :    "fiche"
